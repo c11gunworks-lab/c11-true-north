@@ -1,0 +1,190 @@
+{
+    "ItemPresets":{
+    "6868353f813cbebab3c262aa": {
+        "_id": "6868353f813cbebab3c262aa",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "LV119 Multicam Tropic",
+        "_encyclopedia": "686830a0f33be9471feb69da",
+        "_parent": "6868357d99d45c5ad7dc40cb",
+        "_items": [
+            {
+                "_id": "6868357d99d45c5ad7dc40cb",
+                "_tpl": "686830a0f33be9471feb69da"
+            },
+            {
+                "_id": "686835955be8cf3502a67469",
+                "_tpl": "656fa53d94b480b8a500c0e4",
+                "parentId": "6868357d99d45c5ad7dc40cb",
+                "slotId": "Front_plate"
+            },
+            {
+                "_id": "68683598714046929959c6a7",
+                "_tpl": "656fa53d94b480b8a500c0e4",
+                "parentId": "6868357d99d45c5ad7dc40cb",
+                "slotId": "Back_plate"
+            },
+            {
+                "_id": "6868359bbfc7667d263bd1ce",
+                "_tpl": "6557458f83942d705f0c4962",
+                "parentId": "6868357d99d45c5ad7dc40cb",
+                "slotId": "Left_side_plate"
+            },
+            {
+                "_id": "6868359e6a4bad97536263a4",
+                "_tpl": "6557458f83942d705f0c4962",
+                "parentId": "6868357d99d45c5ad7dc40cb",
+                "slotId": "Right_side_plate"
+            }
+        ]
+      },
+    
+    "68b5a182aaa475c49d640c56": {
+        "_id": "68b5a182aaa475c49d640c56",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Armalite AR-18",
+        "_encyclopedia": "68b4b52f1a1ff2a6c49ac5be",
+        "_parent": "68b5a1ec2ece118de8ff88f5",
+        "_items": [
+            {
+                "_id": "68b5a1ec2ece118de8ff88f5",
+                "_tpl": "68b4b52f1a1ff2a6c49ac5be"
+            },
+            {
+                "_id": "68b5a232688ad9dd3f70a1d0",
+                "_tpl": "68b4b8dbaf267fb9019665ca",
+                "parentId": "68b5a1ec2ece118de8ff88f5",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "68b5a23864967ec38b670689",
+                "_tpl": "68b4d2e5b309cf9e8d6bfb58",
+                "parentId": "68b5a1ec2ece118de8ff88f5",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "68b5a23d9f32535e91f6e5c5",
+                "_tpl": "68b59fbc0594a5911fe3d6f7",
+                "parentId": "68b5a1ec2ece118de8ff88f5",
+                "slotId": "mod_magazine"
+            },
+           
+            {
+                "_id": "68b5a2e647f7c3c79f53c911",
+                "_tpl": "68b4d8a1262dcfd5ed45d249",
+                "parentId": "68b5a1ec2ece118de8ff88f5",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "68c0d365ef26a14d27651842",
+                "_tpl": "68b59ce933a1b9190eaa952c",
+                "parentId": "68b5a2e647f7c3c79f53c911",
+                "slotId": "mod_stock_con"
+            },
+            {
+                "_id": "68b5a2d538ba6c9e0b30935f",
+                "_tpl": "68b4d54e551238d1960bc818",
+                "parentId": "68b5a232688ad9dd3f70a1d0",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "68b5a2d9cef094f628bc767f",
+                "_tpl": "68b4d384b4414cdc4eae1d5d",
+                "parentId": "68b5a232688ad9dd3f70a1d0",
+                "slotId": "mod_barrel"
+            },
+            {
+                "_id": "68b5a2e14514db14d20fd9b8",
+                "_tpl": "68b59df2df773e94eca1167d",
+                "parentId": "68b5a2d9cef094f628bc767f",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "68b5a2ea82f73d155671991c",
+                "_tpl": "68b4cbb4f1e086bd79756bd0",
+                "parentId": "68b5a2d9cef094f628bc767f",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "68b5a49e9255d2a1cffc3faa",
+                "_tpl": "68b4d62b7d3e0a9eb3240d1f",
+                "parentId": "68b5a232688ad9dd3f70a1d0",
+                "slotId": "mod_sight_rear"
+            }
+        ]
+
+    },
+    "68c30001aaa1111111113001": {
+  "_id": "68c30001aaa1111111113001",
+  "_type": "Preset",
+  "_changeWeaponName": false,
+  "_name": "HK P30 Pistol",
+  "_encyclopedia": "68ded60bbd53f44248ea324f",
+  "_parent": "68c30002aaa1111111113002",
+
+  "_items": [
+    {
+      "_id": "68c30002aaa1111111113002",
+      "_tpl": "68ded60bbd53f44248ea324f"
+    },
+
+    {
+      "_id": "68c30003aaa1111111113003",
+      "_tpl": "68dedf5072c1a7878545c9d4",
+      "parentId": "68c30002aaa1111111113002",
+      "slotId": "mod_barrel"
+    },
+
+    {
+      "_id": "68c30004aaa1111111113004",
+      "_tpl": "68deec5afbef6b45bea1f051",
+      "parentId": "68c30002aaa1111111113002",
+      "slotId": "mod_reciever"
+    },
+
+    {
+      "_id": "68c30005aaa1111111113005",
+      "_tpl": "68deeeb97cbd04a1abd7a74b",
+      "parentId": "68c30002aaa1111111113002",
+      "slotId": "mod_magazine"
+    },
+
+    {
+      "_id": "68c30006aaa1111111113006",
+      "_tpl": "68def4fe6e38d59a384f0ae1",
+      "parentId": "68c30002aaa1111111113002",
+      "slotId": "mod_trigger"
+    },
+
+    {
+      "_id": "68c30007aaa1111111113007",
+      "_tpl": "68def250e985661ccf8b1c79",
+      "parentId": "68c30002aaa1111111113002",
+      "slotId": "mod_hammer"
+    },
+
+    {
+      "_id": "68c30008aaa1111111113008",
+      "_tpl": "68def372f78f26bc8054cab3",
+      "parentId": "68c30002aaa1111111113002",
+      "slotId": "mod_catch"
+    },
+
+    {
+      "_id": "68c30009aaa1111111113009",
+      "_tpl": "68deea38e2111fb84c156ff2",
+      "parentId": "68c30004aaa1111111113004",
+      "slotId": "mod_sight_rear"
+    },
+
+    {
+      "_id": "68c3000aaaa1111111113010",
+      "_tpl": "68def18791f0b463b5c29f0c",
+      "parentId": "68c30004aaa1111111113004",
+      "slotId": "mod_sight_front"
+    }
+  ]
+}
+    }
+  }

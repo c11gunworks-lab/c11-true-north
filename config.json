@@ -1,0 +1,17 @@
+{
+  "packs": {
+    "pack_ar18": true,
+    "pack_hkp30": true,
+    "pack_ak105": true,
+	"pack_ppsh": true,
+  "pack_misc": true
+  },
+  "traders": {
+    "enabled": true,
+    "ids": [
+      "5a7c2eca46aef81a7ca2145d",
+      "5ac3b934156ae10c4430e83c",
+      "5935c25fb3acc3127c3d8cd9"
+    ]
+  }
+}
