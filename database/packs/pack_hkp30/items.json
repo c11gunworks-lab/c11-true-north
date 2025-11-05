@@ -672,6 +672,7 @@
                 "CanPutIntoDuringTheRaid": true,
                 "CanRequireOnRagfair": false,
                 "CanSellOnRagfair": true,
+                "CanFast": true,
                 "CantRemoveFromSlotsDuringRaid": [],
                 "Cartridges": [
                     {
@@ -747,7 +748,7 @@
                 "QuestItem": false,
                 "QuestStashMaxCount": 0,
                 "RagFairCommissionModifier": 1,
-                "RaidModdable": false,
+                "RaidModdable": true,
                 "Recoil": 0,
                 "RepairCost": 0,
                 "RepairSpeed": 0,
@@ -756,7 +757,7 @@
                 "Slots": [],
                 "StackMaxSize": 1,
                 "StackObjectsCount": 1,
-                "ToolModdable": true,
+                "ToolModdable": false,
                 "UniqueAnimationModID": 0,
                 "Unlootable": false,
                 "UnlootableFromSide": [],
@@ -1575,6 +1576,7 @@
                 "CanPutIntoDuringTheRaid": true,
                 "CanRequireOnRagfair": false,
                 "CanSellOnRagfair": true,
+                "CanFast": true,
                 "CantRemoveFromSlotsDuringRaid": [],
                 "Cartridges": [
                     {
@@ -1650,7 +1652,7 @@
                 "QuestItem": false,
                 "QuestStashMaxCount": 0,
                 "RagFairCommissionModifier": 1,
-                "RaidModdable": false,
+                "RaidModdable": true,
                 "Recoil": 0,
                 "RepairCost": 0,
                 "RepairSpeed": 0,
@@ -1659,7 +1661,7 @@
                 "Slots": [],
                 "StackMaxSize": 1,
                 "StackObjectsCount": 1,
-                "ToolModdable": true,
+                "ToolModdable": false,
                 "UniqueAnimationModID": 0,
                 "Unlootable": false,
                 "UnlootableFromSide": [],
